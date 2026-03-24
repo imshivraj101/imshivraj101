@@ -1,135 +1,184 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a0a,60:0d1117,100:000000&height=280&section=header&text=SHIVRAJ%20TALEKAR&fontSize=62&fontColor=00ff88&fontAlignY=45&stroke=00ff88&strokeWidth=1&desc=AI%20Engineer%20%2F%2F%20Builder%20%2F%2F%20Design%20Thinker&descAlignY=65&descSize=16&descColor=888888" width="100%" />
+
+</div>
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  > INITIALIZING PROFILE...                                       ║
+║  > LOADING AI SYSTEMS: ██████████████████████████████ 100%       ║
+║  > STATUS: ONLINE                                                ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shivraj%20Talekar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Design%20Thinker&descAlignY=60&descSize=18" width="100%" />
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+ideas+into+intelligent+systems+%F0%9F%A7%A0;AI+%2B+Cloud+%2B+Design+%3D+%E2%9C%A8;Building+at+the+frontier+of+LLMs+%26+MLOps)](https://git.io/typing-svg)
- 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00FF88&center=true&vCenter=true&width=650&lines=AI+Engineer+%2F%2F+Building+Intelligent+Systems;LLMs+%7C+MLOps+%7C+Cloud+Infrastructure;Shipping+products+at+the+frontier+of+AI;Nashik+%E2%86%92+Everywhere)](https://git.io/typing-svg)
+
 </div>
- 
+
 ---
- 
-## 👋 Hey, I'm Shivraj
- 
-CS & Design undergrad from **KKWIEER, Nashik** — obsessed with building things at the intersection of **Generative AI, Cloud Infrastructure, and Clean UX**.
- 
-Currently:
-- 🤖 Leveling up in **AI Engineering** — LLMs, fine-tuning, MLOps
-- ☁️ Hands-on with **Docker, Kubernetes, cloud-native pipelines**
-- 📝 Writing about ML, systems design, and long-term thinking
-- 🎬 Building a Hinglish YouTube channel breaking down complex ideas
- 
-> *"Great AI products are not just trained — they are engineered, deployed, and scaled."*
- 
+
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=imshivraj101&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88" />
+
+### `whoami`
+
+```python
+shivraj = {
+    "role"     : "AI Engineer",
+    "location" : "Nashik, India",
+    "focus"    : ["LLMs", "MLOps", "Cloud", "GenAI"],
+    "building" : "Intelligent systems that scale",
+    "learning" : ["RL", "Fine-tuning", "Kubeflow"],
+    "creating" : "Hinglish AI explainer series",
+    "vibe"     : "Ship fast. Think deep. Build forever."
+}
+```
+
+<br clear="right"/>
+
 ---
- 
-## 💼 Experience
- 
-**AI Engineer — ESDS Software Solution**
-- Worked with cloud + AI infrastructure in a production environment
-- Hands-on with Docker, Kubernetes, deployment systems
-- Exposure to real-world AI pipelines and scalable system design
- 
+
+### `ls ./projects`
+
+<table>
+<tr>
+<td width="50%">
+
+**🌍 Travellore**
+```
+AI-powered solo travel planner
+with personalized itineraries
+─────────────────────────────
+Stack: React · GenAI APIs
+```
+
+</td>
+<td width="50%">
+
+**📓 Stoiric**
+```
+Gamified self-growth journaling
+app built on Stoic philosophy
+─────────────────────────────
+Stack: React · Node.js
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📍 Radius**
+```
+Hyperlocal social app with
+deeply custom user flows
+─────────────────────────────
+Stack: React · Firebase
+```
+
+</td>
+<td width="50%">
+
+**🎬 Trailer-Park**
+```
+Netflix-style trailer browser
+powered by live TMDB data
+─────────────────────────────
+Stack: React · TMDB API
+```
+
+</td>
+</tr>
+</table>
+
 ---
- 
-## 🌟 Notable Projects
- 
-| Project | Description | Stack |
-|---|---|---|
-| **🌍 Travellore** | AI-powered solo travel planner with personalized itineraries | React, GenAI APIs |
-| **🎬 Trailer-Park** | Netflix trailer clone with live TMDB data | React, TMDB API |
-| **📍 Radius** | Hyperlocal social app with custom user flows | React, Firebase |
-| **📓 Stoiric** | Gamified self-growth journaling app (Stoic philosophy) | React, Node.js |
- 
-*Live demos and GitHub repos available for each project.*
- 
+
+### `cat ./tech_stack.json`
+
+**`// AI & Machine Learning`**
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff88)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00ff88)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00ff88)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00ff88)
+![Generative AI](https://img.shields.io/badge/GenAI-000000?style=for-the-badge&logo=openai&logoColor=00ff88)
+
+**`// Cloud · DevOps · MLOps`**
+
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-000000?style=for-the-badge&logo=kubeflow&logoColor=00ff88)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)
+
+**`// Frontend`**
+
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-000000?style=for-the-badge&logo=chakra-ui&logoColor=319795)
+
+**`// Backend`**
+
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff)
+
+**`// Design`**
+
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00C4CC)
+![Balsamiq](https://img.shields.io/badge/Balsamiq-000000?style=for-the-badge&logo=balsamiq&logoColor=FF6F61)
+
 ---
- 
-## 🛠️ Tech Stack
- 
-**AI / ML**
- 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Gen%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
- 
-**DevOps / Cloud / MLOps**
- 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Kubeflow](https://img.shields.io/badge/Kubeflow-00897B?style=for-the-badge&logo=kubeflow&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
- 
-**Frontend**
- 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
- 
-**Backend**
- 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
- 
-**Design & Tools**
- 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Balsamiq](https://img.shields.io/badge/Balsamiq-FF6F61?style=for-the-badge&logo=balsamiq&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
- 
+
+### `git log --oneline ./leadership`
+
+```
+a1f3c92  President @ Design Society (DeSoc) · KKWIEER
+b72de11  Head of Design & Branding @ TEDxKKWIEER
+c98a441  Core Committee @ ISTE
+d15f003  Head of Marketing & Secretariat @ Innov-Era 2025
+e84b229  Writer & Director @ Whitespot Studios
+```
+
 ---
- 
-## 📚 Writing & Content
- 
-- 🧠 Machine Learning — from a builder's perspective
-- ☁️ Beginner-friendly guides on Cloud & system design  
-- 📖 Thoughts on discipline, long-term thinking, and growth
- 
----
- 
-## 🎓 Leadership
- 
-- 👑 **President** — Design Society (DeSoc), KKWIEER
-- 🎙️ **Head of Design & Branding** — TEDxKKWIEER
-- 🛠️ **Core Committee** — ISTE
-- 🚀 **Head of Marketing & Secretariat** — Innov-Era 2025 Hackathon
-- 🎬 **Writer & Director** — Whitespot Studios
- 
----
- 
-## 📊 GitHub Stats
- 
+
+### `./stats --verbose`
+
 <div align="center">
- 
-![Shivraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imshivraj101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imshivraj101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
- 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imshivraj101&theme=tokyonight&hide_border=true&background=0d1117)
- 
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=imshivraj101&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&dates=888888&stroke=00ff88)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imshivraj101&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imshivraj101&theme=react-dark&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&hide_border=true)
+
 </div>
- 
+
 ---
- 
-## 🌐 Connect
- 
+
+### `./connect --all`
+
 <div align="center">
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivraj-talekar-259099336/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lord_shivraj)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivrajtalekar101@gmail.com)
- 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff88)](https://linkedin.com/in/shivraj-talekar-259099336/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00ff88)](https://twitter.com/lord_shivraj)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:shivrajtalekar101@gmail.com)
+
 </div>
- 
+
+---
+
 <div align="center">
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
- 
+
+```
+> "Great AI products are not just trained — they are engineered, deployed, and scaled."
+```
+
+![](https://komarev.com/ghpvc/?username=imshivraj101&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d1117,100:000000&height=120&section=footer&fontColor=00ff88" width="100%" />
+
 </div>
